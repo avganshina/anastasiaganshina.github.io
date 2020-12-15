@@ -3233,8 +3233,8 @@ input, select, textarea {
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: #212931;
-			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
+			background-color: #1a2980;
+			background-image: url("../../images/bg.jpg"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
@@ -4527,7 +4527,7 @@ input, select, textarea {
 		#navPanelToggle.alt {
 			background-color: rgba(255, 255, 255, 0.875);
 			box-shadow: 0 0.125rem 0.75rem 0 rgba(30, 37, 45, 0.25);
-			color: #212931;
+			color: #1a2980;
 		}
 
 			#navPanelToggle.alt:hover {
@@ -4564,7 +4564,7 @@ input, select, textarea {
 		-webkit-overflow-scrolling: touch;
 		background: #ffffff;
 		box-shadow: none;
-		color: #212931;
+		color: #1a2980;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
@@ -4643,7 +4643,7 @@ input, select, textarea {
 			}
 
 			#navPanel .close:hover {
-				color: #212931;
+				color: #1a2980;
 			}
 
 			@media screen and (max-width: 736px) {
